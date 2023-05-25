@@ -13,3 +13,5 @@ the above 4-5 lines are written in local repository and then pushed on to git. t
 changed the remote url.
 
 added a remote, now pushing data from orihin to rp1
+
+testing the gitmoji feature
