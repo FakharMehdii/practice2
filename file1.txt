@@ -10,3 +10,4 @@ I'm writing this text so that I can make a change and pull it in the other branc
 YESS!!! It worked!
 
 the above 4-5 lines are written in local repository and then pushed on to git. this line is being written on website.
+changed the remote url.
