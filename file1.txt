@@ -2,8 +2,8 @@ this is file1
 this change is being made on the website.
 again a change on the website
 this change is being made on newbranch
-<<<<<<< HEAD
+
 main branch
-=======
 newbranch
->>>>>>> newbranch
+
+I'm writing this text so that I can make a change and pull it in the other branch. lets see if it works or not.
